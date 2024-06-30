@@ -157,7 +157,7 @@ let runeDomination = [
 ];
 
 let runeSorcery = [
-    ["Summon Arey", "Arcane Comet", "Phase Rush"],
+    ["Summon Aery", "Arcane Comet", "Phase Rush"],
     ["Nullifying Orb", "Manaflow Band", "Nimbus Cloak"],
     ["Transcendence", "Celerity", "Absolute Focus"],
     ["Scorch", "Waterwalking", "Gathering Storm"]
